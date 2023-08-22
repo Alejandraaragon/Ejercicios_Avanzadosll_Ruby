@@ -72,5 +72,5 @@
 #### [Ejercicio 19][21]
 [21]:/Ejercicio19/ejercicio19.md
 
-#### [Ejercicio 12][22]
+#### [Ejercicio 20][22]
 [22]:/Ejercicio20/ejercicio20.md
